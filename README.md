@@ -443,3 +443,4 @@ by L. D. Landau, A. I. Kitaigorodsky
 1. [Sonia Kovalevsky : biography and autobiography](https://archive.org/details/soniakovalevskyb00kova/page/n9/mode/2up)
 2. [Sonya Kovalevsky - her recollections of childhood](https://ia800206.us.archive.org/33/items/sonyakovalevsky00kovaiala/sonyakovalevsky00kovaiala.pdf)
 3. [games, gods and gambling](https://archive.org/details/gamesgodsgamblin0000fnda)
+4. [History of Mathematics](https://archive.org/details/a-history-of-mathematics-3rd-edition/)
